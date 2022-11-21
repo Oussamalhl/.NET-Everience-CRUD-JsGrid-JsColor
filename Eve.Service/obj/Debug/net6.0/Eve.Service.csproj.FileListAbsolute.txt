@@ -1,0 +1,17 @@
+C:\Users\Thrall\source\repos\everience\Eve.Service\bin\Debug\net6.0\Eve.Service.deps.json
+C:\Users\Thrall\source\repos\everience\Eve.Service\bin\Debug\net6.0\Eve.Service.dll
+C:\Users\Thrall\source\repos\everience\Eve.Service\bin\Debug\net6.0\Eve.Service.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Service\bin\Debug\net6.0\Eve.Data.dll
+C:\Users\Thrall\source\repos\everience\Eve.Service\bin\Debug\net6.0\Eve.Domain.dll
+C:\Users\Thrall\source\repos\everience\Eve.Service\bin\Debug\net6.0\Eve.Data.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Service\bin\Debug\net6.0\Eve.Domain.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\Eve.Service.csproj.AssemblyReference.cache
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\Eve.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\Eve.Service.AssemblyInfoInputs.cache
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\Eve.Service.AssemblyInfo.cs
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\Eve.Service.csproj.CoreCompileInputs.cache
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\Eve.Service.csproj.CopyComplete
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\Eve.Service.dll
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\refint\Eve.Service.dll
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\Eve.Service.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Service\obj\Debug\net6.0\ref\Eve.Service.dll

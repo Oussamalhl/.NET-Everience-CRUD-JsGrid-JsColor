@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8ElMuChplW3JqxRHpEsZgCiObTP43F7bW8OwcaRWNwbnQ4GgCuwujIJMop61SqNYkPp/Bd++4Q4D1QiCmchXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thrall\\source\\repos\\everience\\Eve.Domain\\Eve.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thrall\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

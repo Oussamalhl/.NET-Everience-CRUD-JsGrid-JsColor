@@ -1,0 +1,72 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Eve.Domain.Employe>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Add New Employe</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.empId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.firstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.matricule)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateNaissance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.numInscAssur)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.plafondAssur)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.empId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.firstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.lastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.matricule)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dateNaissance)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.numInscAssur)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.plafondAssur)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.empId }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.empId}) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.empId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

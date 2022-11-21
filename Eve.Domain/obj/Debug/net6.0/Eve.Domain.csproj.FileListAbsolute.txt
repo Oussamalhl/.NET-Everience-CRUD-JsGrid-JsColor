@@ -1,0 +1,12 @@
+C:\Users\Thrall\source\repos\everience\Eve.Domain\bin\Debug\net6.0\Eve.Domain.deps.json
+C:\Users\Thrall\source\repos\everience\Eve.Domain\bin\Debug\net6.0\Eve.Domain.dll
+C:\Users\Thrall\source\repos\everience\Eve.Domain\bin\Debug\net6.0\Eve.Domain.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\Eve.Domain.csproj.AssemblyReference.cache
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\Eve.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\Eve.Domain.AssemblyInfoInputs.cache
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\Eve.Domain.AssemblyInfo.cs
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\Eve.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\Eve.Domain.dll
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\refint\Eve.Domain.dll
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\Eve.Domain.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Domain\obj\Debug\net6.0\ref\Eve.Domain.dll

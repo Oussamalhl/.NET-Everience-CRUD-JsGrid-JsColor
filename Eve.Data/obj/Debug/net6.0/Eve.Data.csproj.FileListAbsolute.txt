@@ -1,0 +1,17 @@
+C:\Users\Thrall\source\repos\everience\Eve.Data\bin\Debug\net6.0\Eve.Data.deps.json
+C:\Users\Thrall\source\repos\everience\Eve.Data\bin\Debug\net6.0\Eve.Data.runtimeconfig.json
+C:\Users\Thrall\source\repos\everience\Eve.Data\bin\Debug\net6.0\Eve.Data.dll
+C:\Users\Thrall\source\repos\everience\Eve.Data\bin\Debug\net6.0\Eve.Data.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Data\bin\Debug\net6.0\Eve.Domain.dll
+C:\Users\Thrall\source\repos\everience\Eve.Data\bin\Debug\net6.0\Eve.Domain.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.csproj.AssemblyReference.cache
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.AssemblyInfoInputs.cache
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.AssemblyInfo.cs
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.csproj.CopyComplete
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.dll
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\refint\Eve.Data.dll
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.pdb
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\Eve.Data.genruntimeconfig.cache
+C:\Users\Thrall\source\repos\everience\Eve.Data\obj\Debug\net6.0\ref\Eve.Data.dll
